@@ -61,6 +61,7 @@ Plug 'Vimjas/vim-python-pep8-indent'
 Plug 'majutsushi/tagbar'
 Plug 'ryanoasis/vim-devicons'
 Plug 'sedm0784/vim-you-autocorrect'
+Plug 'sheerun/vim-polyglot'
 call plug#end()
 
 set number 
